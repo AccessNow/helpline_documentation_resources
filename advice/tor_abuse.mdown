@@ -22,9 +22,9 @@
    |Command|What It Does|
    |-------|------------|
    | > last | displays a list of users that have logged in and out |
-   | > who | What it does: displays who is logged on currently |
+   | > who | displays who is logged on currently |
    | > ps auwx | <ul><li>ps: displays current processes</li><li>a: displays processes for all users</li><li>u: displays process belonging to specified user</li><li>w: use 132 columns to display information, instead of default window size</li><li>x: display processes not attached to a terminal</li></ul> | 
-   | > lsof | What it does: lists open files (think ls + of) |
+   | > lsof | lists open files (think ls + of) |
 
    * Look at recent activity in the logs, particularly auth.log, syslog, daemon.log
 
@@ -75,7 +75,7 @@ $HANDLER_NAME
 
 
 
-### <a name="nonthreatening"></a>Template - Tor Abuse - Nonthreatening Harassment
+### <a name="nonthreatening"></a>Template - Tor Abuse - Non-threatening Harassment
 
 Dear $CLIENT_NAME,
     
