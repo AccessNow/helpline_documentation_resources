@@ -1,4 +1,4 @@
-## Tor Exit Node Abuse Complaint
+## Tor Exit Node Abuse Complaint 
 
 #### Symptom
 - Someone detected abuse from an IP address.
@@ -14,29 +14,29 @@
 
 2. You should immediately log into the Tor Exit node in question, and perform basic checks to ensure that the box has not been hacked and compromised. 
 
-* First, ssh into the suspicious machine.
-> ssh [remote_username]@[remote_host] -p [port_number]
+   * First, ssh into the suspicious machine.
+   > ssh [remote_username]@[remote_host] -p [port_number]
 
-* Then, use the following commands in your investigation:
+   * Then, use the following commands in your investigation:
 
 |Command|What It Does|
-|-------|------------|
-| > last | displays a list of users that have logged in and out |
-| > who | What it does: displays who is logged on currently |
-| > ps auwx | <ul><li>ps: displays current processes</li><li>a: displays processes for all users</li><li>u: displays process belonging to specified user</li><li>w: use 132 columns to display information, instead of default window size</li><li>x: display processes not attached to a terminal</li></ul> | 
-| > lsof | What it does: lists open files (think ls + of) |
+   |-------|------------|
+   | > last | displays a list of users that have logged in and out |
+   | > who | What it does: displays who is logged on currently |
+   | > ps auwx | <ul><li>ps: displays current processes</li><li>a: displays processes for all users</li><li>u: displays process belonging to specified user</li><li>w: use 132 columns to display information, instead of default window size</li><li>x: display processes not attached to a terminal</li></ul> | 
+   | > lsof | What it does: lists open files (think ls + of) |
 
-* Look at recent activity in the logs, particularly auth.log, syslog, daemon.log
+   * Look at recent activity in the logs, particularly auth.log, syslog, daemon.log
 
 3. If the node is determined "not compromised", then the next step is to send our standard response to the address we received the email from. The exact emailed response depends on the risk and impact of each particular abuse case.
 
-* In high risk cases, when someone's physical security is being threatened or a non computer-related crime is being committed through our exit node, use the ["Tor Abuse - Threatening Harassment"](/Template - Tor Abuse - Threatening Harassment/) template.
+   * In high risk cases, when someone's physical security is being threatened or a non computer-related crime is being committed through our exit node, use the ["Tor Abuse - Threatening Harassment"](#Template---Tor-Abuse---Threatening-Harassment) template.
 
-* In low risk cases, if the received complaint is related to a network scan, illegal access attempt, spam, forum/groups spam, MySQL injections, Cross-Site Scripting, Cross-Frame Scripting, DoS attacks and so on, use the ["Tor Abuse - Nonthreatening Harassment"](/Template - Tor Abuse - Threatening Harassment/) template.
+   * In low risk cases, if the received complaint is related to a network scan, illegal access attempt, spam, forum/groups spam, MySQL injections, Cross-Site Scripting, Cross-Frame Scripting, DoS attacks and so on, use the ["Tor Abuse - Nonthreatening Harassment"](#Template---Tor-Abuse---Threatening Harassment) template.
 
 4. If we receive a second response, then we can engage in a discussion with them and ensure they understand what is going on. We can let them know that if attacks from Tor Exit nodes are a serious problem they should consider automating the process of downloading the lists of Exit nodes from the Tor Project, and block access to their resources from those Tor Exit nodes.
 
-5. After we send the initial response (see step 3), wait for one week for a reply. If we do not hear back, send a follow up email. We can use the [Tor Abuse - Follow Up](/Template - Tor Abuse - Follow Up/) template.
+5. After we send the initial response (see step 3), wait for one week for a reply. If we do not hear back, send a follow up email. We can use the [Tor Abuse - Follow Up](#Template---Tor Abuse---Follow Up) template.
 
 6. After the follow up is sent, wait another week. If there is still no response from a human, then close the case.
 
