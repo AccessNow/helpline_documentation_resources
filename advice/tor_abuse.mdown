@@ -32,7 +32,7 @@
 
    * In high risk cases, when someone's physical security is being threatened or a non computer-related crime is being committed through our exit node, use the ["Tor Abuse - Threatening Harassment"](#threatening) template.
 
-   * In low risk cases, if the received complaint is related to a network scan, illegal access attempt, spam, forum/groups spam, MySQL injections, Cross-Site Scripting, Cross-Frame Scripting, DoS attacks and so on, use the ["Tor Abuse - Nonthreatening Harassment"](#nonthreatening) template.
+   * In low risk cases, if the received complaint is related to a network scan, illegal access attempt, spam, forum/groups spam, MySQL injections, Cross-Site Scripting, Cross-Frame Scripting, DoS attacks and so on, use the ["Tor Abuse - Non-threatening Harassment"](#nonthreatening) template.
 
 4. If we receive a second response, then we can engage in a discussion with them and ensure they understand what is going on. We can let them know that if attacks from Tor Exit nodes are a serious problem they should consider automating the process of downloading the lists of Exit nodes from the Tor Project, and block access to their resources from those Tor Exit nodes.
 
