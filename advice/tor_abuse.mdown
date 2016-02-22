@@ -75,7 +75,7 @@ $HANDLER_NAME
 
 
 
-### <a name="nonthreatening"></a>Template - Tor Abuse - Nonthreatening Harassment
+### <a name="nonthreatening"></a>Template - Tor Abuse - Non-threatening Harassment
 
 Dear $CLIENT_NAME,
     
