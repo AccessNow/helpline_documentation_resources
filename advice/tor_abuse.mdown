@@ -19,7 +19,7 @@
 
    * Then, use the following commands in your investigation:
 
-|Command|What It Does|
+   |Command|What It Does|
    |-------|------------|
    | > last | displays a list of users that have logged in and out |
    | > who | What it does: displays who is logged on currently |
@@ -30,13 +30,13 @@
 
 3. If the node is determined "not compromised", then the next step is to send our standard response to the address we received the email from. The exact emailed response depends on the risk and impact of each particular abuse case.
 
-   * In high risk cases, when someone's physical security is being threatened or a non computer-related crime is being committed through our exit node, use the ["Tor Abuse - Threatening Harassment"](#Template---Tor-Abuse---Threatening-Harassment) template.
+   * In high risk cases, when someone's physical security is being threatened or a non computer-related crime is being committed through our exit node, use the ["Tor Abuse - Threatening Harassment"](#threatening) template.
 
-   * In low risk cases, if the received complaint is related to a network scan, illegal access attempt, spam, forum/groups spam, MySQL injections, Cross-Site Scripting, Cross-Frame Scripting, DoS attacks and so on, use the ["Tor Abuse - Nonthreatening Harassment"](#Template---Tor-Abuse---Threatening Harassment) template.
+   * In low risk cases, if the received complaint is related to a network scan, illegal access attempt, spam, forum/groups spam, MySQL injections, Cross-Site Scripting, Cross-Frame Scripting, DoS attacks and so on, use the ["Tor Abuse - Nonthreatening Harassment"](#nonthreatening) template.
 
 4. If we receive a second response, then we can engage in a discussion with them and ensure they understand what is going on. We can let them know that if attacks from Tor Exit nodes are a serious problem they should consider automating the process of downloading the lists of Exit nodes from the Tor Project, and block access to their resources from those Tor Exit nodes.
 
-5. After we send the initial response (see step 3), wait for one week for a reply. If we do not hear back, send a follow up email. We can use the [Tor Abuse - Follow Up](#Template---Tor Abuse---Follow Up) template.
+5. After we send the initial response (see step 3), wait for one week for a reply. If we do not hear back, send a follow up email. We can use the [Tor Abuse - Follow Up](#followUp) template.
 
 6. After the follow up is sent, wait another week. If there is still no response from a human, then close the case.
 
