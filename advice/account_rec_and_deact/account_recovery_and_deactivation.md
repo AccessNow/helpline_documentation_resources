@@ -33,8 +33,7 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    * For Facebook Profiles and Pages
    https://www.facebook.com/help/131719720300233/
 
-   Before escalating the issue to the Facebook team, it is essential to make sure that the client already submitted their issue through the standard link in the first place. Dedicated to hacked Account pages, it can be found here:
-
+   Note: before escalating the issue to the Facebook team, it is essential to make sure that the client already submitted their issue through the standard link first. 
 
    * For Google 
    https://support.google.com/mail/answer/50270?hl=en
@@ -68,7 +67,7 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    
       - For Skype, please ensure the client has used the standard procedure here: https://support2.microsoft.com/skype/hostpage.aspx?language=en&locale=en-us&oaspworkflow=start_1.0.0.0&needslogin=false&wfname=skype&supportoption=email&SupportTopic_L1=32090809&SupportTopic_L2=32090818&ccsid=635570796435365252 
 
-4. When the client regains access to their Account we need to advise them on how to improve the account security level.
+4. When the client regains access to their account, advise them on how to improve the account's security level.
 
    For a Facebook account: https://securityinabox.org/facebook_basic#2.2
 
@@ -95,8 +94,7 @@ Some potential answers we could provide are:
 
    * Yahoo: https://safety.yahoo.com/Security/SECURITY_RESOURCES.html
 
-   * Microsoft: https://www.microsoft.com/en-us/security/default.
-aspx?ws=support
+   * Microsoft: https://www.microsoft.com/en-us/security/default.aspx?ws=support
 
    * Skype: http://www.skype.com/en/security/ 
 
