@@ -33,7 +33,7 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    * For Facebook Profiles and Pages
    https://www.facebook.com/help/131719720300233/
 
-   Before escalating the issue to the Facebook team, it is essential to make sure that the client already submitted their issue through the standard link in the first place. Dedicated to hacked Account pages, it can be found here:
+   Note: before escalating the issue to the Facebook team, it is essential to make sure that the client already submitted their issue through the standard link first. 
 
    * For Google 
    https://support.google.com/mail/answer/50270?hl=en
@@ -75,24 +75,6 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
 
    Comments:   
    Visit https://github.com/RaReNet/DFAK/blob/master/AccountHijacking.md
-
-#### <a name="outsideMandate"></a>Case is Outside Mandate
-
-Sometimes, the request of the client is outside of our mandate. 
-
-Note: before escalating the issue to the Facebook team, it is essential to make sure that the client already submitted their issue through the standard link first. 
-
-   * For Google 
-   https://support.google.com/mail/answer/50270?hl=en
-
-   * For Twitter 
-   https://support.twitter.com/forms
-
-   * For Yahoo
-   https://help.yahoo.com/kb/yahoo-account/find-account-hacked-overview-sln2090.html
-
-   * For Microsoft
-   http://windows.microsoft.com/en-us/windows/outlook/hacked-account
 
 
 #### <a name="outsideMandate"></a>Case is Outside Mandate
