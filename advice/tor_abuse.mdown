@@ -53,13 +53,13 @@
 
 Dear $CLIENT_NAME,
 
-My name is $HANDLER_NAME, and I am part of Digital Security Helpline. I am very sorry to hear about your situation. I understand how difficult an experience this is, and I know it may be hard to figure out the next step to take.
+My name is $HANDLER_NAME, and I am part of the Access Now Digital Security Helpline. I am very sorry to hear about your situation. I understand how difficult an experience this is, and I know it may be hard to figure out the next step to take.
 
 If your physical security has been threatened, please consider contacting law enforcement, or creating a log of the abuse. A paper trail may seem useless now, but it creates considerable proof of harassment for later.
 
 Unfortunately, the IP address you reported is associated with a Tor Exit Node (also called an open relay). This means that the abuser is not using our node specifically, but the Tor network as a whole. 
 
-The Tor Project is designed to provide anonymity to its users. Its structure makes it impossible for us to find the real perpetrator of the abuse online. This does not mean that nothing can be done -- traditional investigative techniques are still very effective -- but it does mean the Digital Helpline won't be in a position to help.
+The Tor Project is designed to provide anonymity to its users. Its structure makes it impossible for us to find the real perpetrator of the abuse online. This does not mean that nothing can be done -- traditional investigative techniques are still very effective -- but it does mean the Helpline won't be in a position to help.
 
 Please let me know if I can be of further assistance. Once again, I am very sorry to hear of your situation, and I hope you are able to resolve it safely soon.
 
@@ -79,13 +79,13 @@ $HANDLER_NAME
 
 Dear $CLIENT_NAME,
     
-My name is $HANDLER_NAME, and I am from the Access Digital Helpline. I am very sorry to hear about your situation. 
+My name is $HANDLER_NAME, and I am part of the Access Now Digital Security Helpline. I am very sorry to hear about your situation. 
 
 Unfortunately, the IP address you reported is associated with a Tor Exit Node (also called an open relay). This means that the abuser is not using our node specifically, but the Tor network as a whole. 
 
 The Tor Project is designed to provide anonymity to its users. Its structure makes it impossible for us to find the real perpetrator of the abuse online. Connections are routed through multiple relays, and multiplexed together between. The system does not record logs of client connections or previous hops.
 
-I can offer to block specific destination IPs and ports, but the abuser doesn't exclusively use our relays; he/she will just be routed through a different exit node outside of our control instead.
+I can offer to block specific destination IPs and ports, but the abuser doesn't exclusively use our relays; he or she will just be routed through a different exit node outside of our control instead.
 
 I'm very sorry for the inconvenience. Please let me know if I can be of further assistance. 
 
