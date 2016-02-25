@@ -72,6 +72,7 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
 4. When the client regains access to their account, advise them on how to improve the account's security level. Enable two-factor authentication where possible, and change the password to a new, stronger and more secure one.
 
    **Facebook, Twitter Guides from the community**
+   * Security in a Box Overview: 
    https://securityinabox.org/facebook_basic#2.2
 
    **From the provider**
@@ -86,6 +87,7 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
 
    Comments:   
    Visit https://github.com/RaReNet/DFAK/blob/master/AccountHijacking.md
+
 
 #### <a name="outsideMandate"></a>Case is Outside Mandate
 
