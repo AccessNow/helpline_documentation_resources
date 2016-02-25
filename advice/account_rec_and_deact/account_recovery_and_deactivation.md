@@ -1,5 +1,5 @@
 ## Account Recovery and Deactivation
-
+ 
 #### Symptom   
 Someone is asking for an account reactivation / deactivation
 
