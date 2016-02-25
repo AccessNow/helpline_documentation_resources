@@ -29,11 +29,11 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    * Does the client have a secure email address to follow up on it?
 
 2. Providers Automated Reports
+ 
+ Remember, before escalating the issue to any provider, it is essential to make sure that the client has already submitted their issue through the standard link first. 
 
    * For Facebook Profiles and Pages
    https://www.facebook.com/help/131719720300233/
-
-   Note: before escalating the issue to the Facebook team, it is essential to make sure that the client already submitted their issue through the standard link first. 
 
    * For Google 
    https://support.google.com/mail/answer/50270?hl=en
@@ -46,6 +46,9 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
 
    * For Microsoft
    http://windows.microsoft.com/en-us/windows/outlook/hacked-account
+
+   * For Skype
+   https://support2.microsoft.com/skype/hostpage.aspx?language=en&locale=en-us&oaspworkflow=start_1.0.0.0&needslogin=false&wfname=skype&supportoption=email&SupportTopic_L1=32090809&SupportTopic_L2=32090818&ccsid=635570796435365252 
 
 3. Escalating Cases
 
@@ -67,11 +70,20 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    
       - For Skype, please ensure the client has used the standard procedure here: https://support2.microsoft.com/skype/hostpage.aspx?language=en&locale=en-us&oaspworkflow=start_1.0.0.0&needslogin=false&wfname=skype&supportoption=email&SupportTopic_L1=32090809&SupportTopic_L2=32090818&ccsid=635570796435365252 
 
-4. When the client regains access to their account, advise them on how to improve the account's security level.
+4. When the client regains access to their account, advise them on how to improve the account's security level. Enable two-factor authentication where possible, and change the password to a new, stronger and more secure one.
 
-   For a Facebook account: https://securityinabox.org/facebook_basic#2.2
+   **Facebook, Twitter Guides from the community**
+   https://securityinabox.org/facebook_basic#2.2
 
-   For a Gmail account: enable two-step verification and change the password to a new, stronger and more secure one.
+   **From the provider**
+   * For a Facebook account: 
+   https://www.facebook.com/help/379220725465972
+
+   * For a Twitter account: 
+   https://support.twitter.com/articles/76036#
+
+   * For a Google account: 
+   https://support.google.com/accounts/answer/46526?hl=en
 
    Comments:   
    Visit https://github.com/RaReNet/DFAK/blob/master/AccountHijacking.md
@@ -80,7 +92,7 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
 
 Sometimes, the request of the client is outside of our mandate. 
 
-First, we need to get approval from our Technology Director or Deputy Helpline Manager to confirm the case is definitely outside mandate. Then, we need to draft a reply to the client that will require approval from our supervisor.
+First, we need to get approval from our Technology Director or Deputy Helpline Manager to confirm the case is definitely outside mandate. Then, we need to draft a reply to the client that will require approval from a supervisor.
 
 Some potential answers we could provide are:
 
