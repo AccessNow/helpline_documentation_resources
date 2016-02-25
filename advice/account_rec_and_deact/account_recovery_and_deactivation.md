@@ -1,5 +1,5 @@
 ## Account Recovery and Deactivation
-
+ 
 #### Symptom   
 Someone is asking for an account reactivation / deactivation
 
@@ -58,7 +58,7 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    Before contacting the Facebook team, ensure the client has reported their situation through the official page here: https://www.facebook.com/help/131719720300233/
 
    * Google:
-   Before escalating any case to Google, make sure the official channels to report the situation have been used.
+   Before escalating any case to Google, make sure the official channels to report the situation have been used: https://support.google.com/mail/answer/50270?hl=en 
 
    * Twitter:
    Before emailing the Twitter team, please ensure the client has opened a ticket through their support system: https://support.twitter.com/forms
