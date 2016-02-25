@@ -74,13 +74,9 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    **Facebook, Twitter Guides from the community**
    https://securityinabox.org/facebook_basic#2.2
 
-<<<<<<< HEAD
-4. When the client regains access to their Account we need to advise them on how to improve the account security level.
-=======
    **From the provider**
    * For a Facebook account: 
    https://www.facebook.com/help/379220725465972
->>>>>>> accountRec
 
    * For a Twitter account: 
    https://support.twitter.com/articles/76036#
