@@ -20,7 +20,10 @@ Two-step verification can help to protect these vulnerable accounts, along with 
 - Securing the account and making sure that only the account owner has access to it
 
 #### Solution:  
-- Add a layer of security for greater protection. Help the client to set up two step verification (also called two step authentication). 
+- Add layers of security for greater protection
+   * Help the client to set up two step verification (also called two step authentication)
+   * Provide recommendations for privacy and security settings 
+   * Teach the use of strong passwords and password management 
 
 **Two Step Resources**
    * Overview: https://ssd.eff.org/en/module/how-enable-two-factor-authentication
