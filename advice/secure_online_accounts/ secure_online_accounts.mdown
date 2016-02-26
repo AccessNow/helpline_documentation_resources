@@ -63,5 +63,5 @@ Two-step verification can help to protect these vulnerable accounts, along with 
    * Ensure the client knows how to make a strong password: https://ssd.eff.org/en/module/creating-strong-passwords  
 
 #### Comments
-If the account is known to be compromised, please see the [Account Recovery and Deactivation](advice/account_rec_deact/account_recovery_and_deactivation.md) document.
+If the account is known to be compromised, please see the [Account Recovery and Deactivation](../account_rec_and_deact/account_recovery_and_deactivation.md) document.
 
