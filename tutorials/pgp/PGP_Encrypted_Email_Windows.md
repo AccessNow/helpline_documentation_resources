@@ -241,15 +241,19 @@ You may leave the "Comment" section blank.
 
    ![](images/windows/images/windowsPgpGenerateKeyPassphrase.png)
 
-5. Click on the **Advanced tab** next to Key Expiry, and **confirm the key size is 4096**. 
+5. Underneath the comment line, you will see a key expiration date. Please check the box that reads "Key does not expire."
+
+6. Click on the **Advanced tab** next to Key Expiry, and **confirm the key size is 4096**. 
 
    ![](images/windows/images/windowsPgpConfirmKeySize4096.png)
 
-6. Click [Generate Key](images/windows/images/windowsPgpGenerateKeyConfirmGenerateKey.png) and confirm.
+7. Click [Generate Key](images/windows/images/windowsPgpGenerateKeyConfirmGenerateKey.png) and confirm.
 
-7. You will also be asked to [generate a revocation certificate](images/windows/images/windowsPgpGenerateKeyCertificateGeneratedFull.png). Please do so by clicking **Generate Certificate**, and save it in a secure location (like an encrypted USB stick that you keep for exclusive, personal use).
+|Note:|
+|-----| 
+|You will also be asked to [generate a revocation certificate](images/mac/images/macPgpGenerateRevocationCertificateAskFull.png). Please do so by clicking **Generate Certificate**, and save it in a secure location (like a usb stick that you keep for exclusive, personal use).|
 
-   Find out more in the following section.
+Find out more in the following section.
 
 
 Generate a Revocation Certificate

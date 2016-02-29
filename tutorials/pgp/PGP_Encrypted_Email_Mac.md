@@ -108,11 +108,13 @@ Create a Private and Public Key: Your Key Pair
 
    ![](images/mac/images/macPgpGenerateOpenPgpKeyPage.png)
 
-5. Click on the **Advanced tab** next to Key Expiry, and **confirm the key size is 4096**. 
+5. Underneath the comment line, you will see a key expiration date. Please check the box that reads "Key does not expire."
+
+6. Click on the **Advanced tab** next to Key Expiry, and **confirm the key size is 4096**. 
 
    ![](images/mac/images/macPgpConfirmKeySize4096.png)
 
-6. Click **Generate Key** and confirm.
+7. Click **Generate Key** and confirm.
 
 |Note:|
 |-----| 
