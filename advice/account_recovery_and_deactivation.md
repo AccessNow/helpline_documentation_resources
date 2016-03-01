@@ -1,121 +1,70 @@
-## Account Recovery and Deactivation
- 
-#### Symptom   
-Someone is asking for an account reactivation / deactivation
-
-#### Problem   
-- Is the person asking for assistance the legitimate owner of the account?
-
-- How can I escalate the case to the platform? What information do I have to provide?
-
-- What if the case is [outside of our mandate](#outsideMandate)?
-
-#### Solution
-In all account recovery or deactivation cases you must ensure that the person contacting the Helpline is the the owner of the account, or (particularly in cases where the owner has been incarcerated) the legal representative of the owner of the account. 
-
-This is crucial to verify before proceeding, no matter how urgent the contact claims the case to be. Owners of accounts can usually be verified via vetting. Legal representatives can be more difficult, but a combination of vetting and legal documents may be used for verification. 
-
-**Please note that for all account recovery or deactivation cases you should immediately submit a request via the normal public mechanism that the relevant platform provides. This should always be the first step.**
-
-1. Questions to ask during the process of verifying identity:
-
-   * Who is asking for help? What do we know about him/her/them?
-   * What are the account details?
-   * What were the last actions performed on the account?
-   * What happened with the account?
-   * Why do they need their account back or deactivated?
-   * How were we introduced to this case?
-   * Is there a third party that can endorse the account recovery or deactivation necessity?
-   * Does the client have a secure email address to follow up on it?
-
-2. Providers Automated Reports
- 
- Remember, before escalating the issue to any provider, it is essential to make sure that the client has already submitted their issue through the standard link first. 
-
-   * For Facebook Profiles and Pages
-   https://www.facebook.com/help/131719720300233/
-
-   * For Google 
-   https://support.google.com/mail/answer/50270?hl=en
-
-   * For Twitter 
-   https://support.twitter.com/forms
-
-   * For Yahoo
-   https://help.yahoo.com/kb/yahoo-account/find-account-hacked-overview-sln2090.html
-
-   * For Microsoft
-   http://windows.microsoft.com/en-us/windows/outlook/hacked-account
-
-   * For Skype
-   https://support2.microsoft.com/skype/hostpage.aspx?language=en&locale=en-us&oaspworkflow=start_1.0.0.0&needslogin=false&wfname=skype&supportoption=email&SupportTopic_L1=32090809&SupportTopic_L2=32090818&ccsid=635570796435365252 
-
-3. Escalating Cases
-
-   If the automated report did not succeed, or the situation is critical and we need urgent assistance, we can escalate the cases through the following mechanisms.
-
-   * Facebook:
-   Before contacting the Facebook team, ensure the client has reported their situation through the official page here: https://www.facebook.com/help/131719720300233/
-
-   * Google:
-   Before escalating any case to Google, make sure the official channels to report the situation have been used: https://support.google.com/mail/answer/50270?hl=en 
-
-   * Twitter:
-   Before emailing the Twitter team, please ensure the client has opened a ticket through their support system: https://support.twitter.com/forms
-
-   * For Yahoo, please ensure the client has used the standard recovery procedure here: https://io.help.yahoo.com/contact/index?page=contact&locale=en_US&y=PROD_ACCT# 
-   
-   * For Microsoft: Escalate to your direct superior.
-   
-   * For Skype, please ensure the client has used the standard procedure here: https://support2.microsoft.com/skype/hostpage.aspx?language=en&locale=en-us&oaspworkflow=start_1.0.0.0&needslogin=false&wfname=skype&supportoption=email&SupportTopic_L1=32090809&SupportTopic_L2=32090818&ccsid=635570796435365252 
-
-4. When the client regains access to their account, advise them on how to improve the account's security level. Enable two-factor authentication where possible, and change the password to a new, stronger and more secure one.
-
-   **Facebook, Twitter Guides from the community**
-   * Security in a Box Overview: 
-   https://securityinabox.org/facebook_basic#2.2
-
-   **From the provider**
-   * For a Facebook account: 
-   https://www.facebook.com/help/379220725465972
-
-   * For a Twitter account: 
-   https://support.twitter.com/articles/76036#
-
-   * For a Google account: 
-   https://support.google.com/accounts/answer/46526?hl=en
-
-   Comments:   
-   Visit https://github.com/RaReNet/DFAK/blob/master/AccountHijacking.md
 
 
-#### <a name="outsideMandate"></a>Case is Outside Mandate
+Chat
 
-Sometimes, the request of the client is outside of our mandate. 
+    Article #75: [SC] ChatSecure
+    Article #141: [SC] Recommendations for Secure Chat Tools for Android and iOS
 
-First, we need to get approval from our Technology Director or Deputy Helpline Manager to confirm the case is definitely outside mandate. Then, we need to draft a reply to the client that will require approval from a supervisor.
+75 and 141 have different suggestions for chat encryption on Android. 141 is SoT due to having more detailed information, however it is worded as solving a couple specific requirements (use between iOS and Android etc.). I think we would need to change the wording used if we were to incorporate 75. Perhaps we should also compare 75's ChatSecure with the solutions offered in 141 and make a decision about what to recommend ultimately.
 
-Some potential answers we could provide are:
-
-1. Publicly available advice on how to secure the client's account:
-   
-   * Facebook: https://www.facebook.com/help/379220725465972
-
-   * Google: https://www.google.com/safetycenter/everyone/start/
-
-   * Twitter: https://support.twitter.com/articles/76036
-
-   * Yahoo: https://safety.yahoo.com/Security/SECURITY_RESOURCES.html
-
-   * Microsoft: https://www.microsoft.com/en-us/security/default.aspx?ws=support
-
-   * Skype: http://www.skype.com/en/security/ 
+Email template "Article #124: [SC] - ChatSecure" is paired with 75. If we absorb 75 into 141, we should be aware of this.
 
 
-2. If the account was suspended because of the published content, we need to explain to the client that there are policies against such practices. The following resources may be of some use.
+CloudFlare - Email
 
-   * Facebook Community Standards: https://www.facebook.com/communitystandards
+    Article #89: How to add MX record/s for a specific domain in CloudFlare?
+    Article #167: Issues with email after CloudFlare set-up
 
-   * Twitter Rules: https://support.twitter.com/articles/18311 
-   
-   * Google+ Policies: https://www.google.com/intl/en-US/+/policy/content.html
+These two speak about email problems clients have after setting up CloudFlare. I think they are similar enough to be duplicates. 89 is the SoT, but 167 has information 89 needs.
+
+CloudFlare - For Client
+
+    Article #33: [WPS] - How to setup CloudFlare for a client?
+    Article #72: DDoS CloudFlare Process
+
+Probable duplicates, but 72 references email templates articles 27, 28 & 29 which 33 should, and does not. 33 is SoT.
+
+
+Digital Security Outreach Templates: Spanish/English
+
+    email template: Article #142: Degital Security Clinic Outreach template
+    email template: Article #152: [IP] - Outreach Template - Spanish
+
+I would like to combine the above templates as technically they are duplicates (152 is a very direct translation of 142 into Spanish), and the helpline could choose the most appropriate language from a single template easier than finding a separate article.
+
+
+Suspicious Email
+
+    Article #91: FAQ - [NDHS] - Handling phishing Incident - #91
+    Article #58: [NDH] - FAQ - What to do if a client receives a suspicious email? - 58
+
+Both articles describe what to do in the event of a phishing email, but 91's instructions are different than 58's. 58 is SoT by virtue of having other information. 91 should be absorbed into 58, adding its instructions.
+
+Tunnelblick
+
+    email template: Article 50: [IM] - Template: Tunnel blick instructions for Mac OS X - #50
+    Article 145: Fix the issue of Traffic routing through our VPN on mac
+
+This one is a strange one, so I would like input. 145 reads "class: the client wants to only route traffic to our internal network through vpn" and "Symptom: The client need VPN only to get access to our internal network" (emphasis is mine). Do we ever allow clients to access our internal networks? Do we refer to Access employees as the client? If this is about internal Access clients, these are duplicates, and 50 would be SoT. If we are referring to Access employees and helpline clients, these are not duplicates. 
+
+The other thing is, 50 is an email template and has no guide or article repeating the information. As a template, it is not a duplicate of 145 because 145 is not an email template. However, this would then beg the question of whether or not they are paired together, as many email templates are to a "parent" article, which brings me back to my original question of wondering if Access employees get called clients too.
+
+
+2 Step Focused:
+
+    Article 90: [WPS] Two Steps verification fo gmail account.
+    Article 95: Securing social media accounts.
+    Article 168: Secure Yahoo account with 2 step verification
+
+These three article may be consolidated, and I recommend placing them in #95, as that's the most general title (95 notes that 90 is similar, and suggests adding it under "Comments"). 168 fully walks through the 2 step process for Yahoo, but 90 & 95 provide no steps of how to secure gmail (90) or twitter/facebook (95). I would want to add steps to 90 and 95.
+
+This is an email template with the same information as what 95 suggests:
+
+    email template Article 94: [WPS] Secure social media: Twitter and Facebook accounts
+
+However, 94 does include the steps to set up 2 step in Twitter and Facebook. I think 94 is the SoT for Facebook & Twitter. The email template steps should be added to an article, and perhaps more email templates should be created to cover other types of accounts.
+
+
+Note:
+Article email templates #11 & #15 regarding abuse of Tor Exit nodes sound similar, but according to Article #42, 11 is for high risk cases, 15 is for low risk, so no de-duplication is proposed. This is similar to Malware vs Adware in articles #133 & #134. Depending on how we decide to present articles in the future, some consolidation may be necessary.
+
