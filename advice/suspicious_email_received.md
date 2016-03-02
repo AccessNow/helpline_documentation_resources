@@ -22,7 +22,7 @@ What to do if a client receives a suspicious email? These are the steps an incid
 
 2. Read the email and decide if it seems like it was written by a person or a robot. If you conclude the message was sent by a person, ask if the sender is known to the client. 
 
-3. After receiving the headers and full email source from the client in step 1, analyze the following:
+3. After receiving the headers and full email source from the client in Step 1, analyze the following:
    - Where is the email coming from? From what Country, ISP, IP address?
 
    - Is the IP address part of the Tor network?
@@ -45,7 +45,8 @@ What to do if a client receives a suspicious email? These are the steps an incid
 
    - If the suspicious email was identified as a Gmail scam, Please follow the instructions in this link: https://support.google.com/mail/answer/1074268?hl=en
 
-Comments: 
-https://www.returnpath.com/wp-content/uploads/2015/07/The-Anatomy-of-a-Phishing-Email.pdf?_ga=1.32496698.541265734.1438975767 
+Comments:
+
+* Use this pdf as a quick reference for the client to better understand phishing: https://www.returnpath.com/wp-content/uploads/2015/07/The-Anatomy-of-a-Phishing-Email.pdf?_ga=1.32496698.541265734.1438975767 
 
 
