@@ -17,7 +17,7 @@ Securing the client's accounts from unauthorized access attempts.
 #### Solution
 Assist the client in setting up Two-Factor Authentication (if available, over 2-Step) and in using a one time password app to be the second factor of the process.
 
-**Two-Factor Authentication and Two-Step Verification**
+##### Two-Factor Authentication and Two-Step Verification
 Set up the account with Two-Factor Authentication or Two-Step Verification. This solution is not available for every online account, but when it is, we should encourage the client to use it, adding a layer of security beyond their password. 
 
 Use https://twofactorauth.org/ as a reference to see what accounts present 2-Step or 2FA as an option. 
@@ -34,7 +34,7 @@ For some of our most requested sites, provide the following instructional links 
 
    * Yahoo: https://help.yahoo.com/kb/SLN5013.html
 
-**One Time Password Apps**
+##### One Time Password Apps
 If 2-Factor Authentication is an option, please council the client in the use of One Time Password apps. 
 
 | Note | 
