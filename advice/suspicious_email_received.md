@@ -47,6 +47,4 @@ What to do if a client receives a suspicious email? These are the steps an incid
 
 Comments:
 
-* Use this pdf as a quick reference for the client to better understand phishing: https://www.returnpath.com/wp-content/uploads/2015/07/The-Anatomy-of-a-Phishing-Email.pdf?_ga=1.32496698.541265734.1438975767 
-
-
+* Use this pdf as a quick reference for the client to better understand phishing: https://www.returnpath.com/wp-content/uploads/2015/07/The-Anatomy-of-a-Phishing-Email.pdf
