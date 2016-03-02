@@ -45,5 +45,7 @@ What to do if a client receives a suspicious email? These are the steps an incid
 
    - If the suspicious email was identified as a Gmail scam, Please follow the instructions in this link: https://support.google.com/mail/answer/1074268?hl=en
 
+Comments: 
+https://www.returnpath.com/wp-content/uploads/2015/07/The-Anatomy-of-a-Phishing-Email.pdf?_ga=1.32496698.541265734.1438975767 
 
 
