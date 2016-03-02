@@ -21,11 +21,13 @@ Two-step verification can help to protect these vulnerable accounts, along with 
 
 #### Solution:  
 - Add layers of security for greater protection
-   * Help the client to set up two step verification (also called two step authentication)
+   * Help the client to set up two-step verification (also called two-factor authentication)
    * Provide recommendations for privacy and security settings 
    * Teach the use of strong passwords and password management 
 
-**Two Step Resources**
+**Two-Factor Authentication Resources**
+   * Please view the [main document](./two_factor_authentication_recommendations.md) on Two-Factor Authentication for more information.
+
    * Overview: https://ssd.eff.org/en/module/how-enable-two-factor-authentication
    
    * List of 2-Step enabled sites: https://twofactorauth.org  
