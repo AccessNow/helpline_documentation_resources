@@ -66,5 +66,5 @@ If 2-Factor Authentication is an option, please council the client in the use of
 
    Please review this flow chart for a visual representation of the difference https://paul.reviews/the-difference-between-two-factor-and-two-step-authentication/ 
 
-* For other ways to secure your account, please [view the document](./secure_online_accounts.mdown) on securing online accounts.    
+* For other ways to increase the security of a client's account, please [view the document](./secure_online_accounts.mdown) on securing online accounts.    
 
