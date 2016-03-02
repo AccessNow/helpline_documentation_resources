@@ -15,7 +15,7 @@ Google Drive is one of the most prevalent platforms for storing and sharing docu
    - Implementing 2-step verification is highly recommended.
    https://www.google.com/landing/2step/
    
-   - Do a security check up: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiTyKqukpTLAhXKXh4KHWFVCWQQFggmMAA&url=https%3A%2F%2Fsecurity.google.com%2Fsettings%2Fsecurity%2Fsecureaccount&usg=AFQjCNFC48Ax-ueARwdfek-0RVzsFrWSGg
+   - Do a security check up: https://security.google.com/settings/security/secureaccount
 
 * Do not install Google Drive on a public or shared computer. Doing so may allow anyone with access to the computer to be able to open or view your files
 
