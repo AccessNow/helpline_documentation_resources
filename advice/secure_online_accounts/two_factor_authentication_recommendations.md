@@ -20,6 +20,8 @@ Assist the client in setting up Two-Factor Authentication (if available, over 2-
 ##### Two-Factor Authentication and Two-Step Verification
 Set up the account with Two-Factor Authentication or Two-Step Verification. This solution is not available for every online account, but when it is, we should encourage the client to use it, adding a layer of security beyond their password. 
 
+If your client is concerned about associating their phone number with the account, please read below.
+
 Use https://twofactorauth.org/ as a reference to see what accounts present 2-Step or 2FA as an option. 
 
 For some of our most requested sites, provide the following instructional links to the client and assist in guiding them through the setup:
