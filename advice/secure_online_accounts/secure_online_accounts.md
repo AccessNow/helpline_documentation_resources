@@ -44,7 +44,7 @@ Two-step verification can help to protect these vulnerable accounts, along with 
 
 **Security Checkups**
 
-   * Google: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiTyKqukpTLAhXKXh4KHWFVCWQQFggmMAA&url=https%3A%2F%2Fsecurity.google.com%2Fsettings%2Fsecurity%2Fsecureaccount&usg=AFQjCNFC48Ax-ueARwdfek-0RVzsFrWSGg 
+   * Google: https://security.google.com/settings/security/secureaccount
 
    * Facebook: https://www.facebook.com/help/securitycheckup  
 
