@@ -1,6 +1,6 @@
 ## Securing Social Media and Online Accounts
 
-Securing social media accounts is crucial for many human rights activists to post their ideas, communicate with their partners, and broadcast news. Their subject matter and popularity make them targets for hacking. 
+Securing social media and other online accounts are crucial for many human rights activists to post their ideas, communicate with their partners, and broadcast news. Their subject matter and popularity make them targets for hacking. 
 
 Two-step verification can help to protect these vulnerable accounts, along with a comfort and awareness of the security settings. If available, it is also important to keep track of all devices that have logged in to an account. 
 
@@ -14,7 +14,7 @@ Two-step verification can help to protect these vulnerable accounts, along with 
 
 - Evidence that the account is being used without the owner's knowledge
 
-- Concerns about account access attempts from devices not owned by the account holder
+- Concerns about account access attempts from devices not recognized by the account owner
 
 #### Problem    
 - Securing the account and making sure that only the account owner has access to it
