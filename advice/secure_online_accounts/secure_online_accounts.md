@@ -52,7 +52,7 @@ Two-step verification can help to protect these vulnerable accounts, along with 
 
    * Google: https://support.google.com/accounts/answer/46526?hl=en 
    
-   * Facebook
+   * Facebook:
       * Privacy: https://www.facebook.com/help/445588775451827/ 
       * Security: https://www.facebook.com/help/149190625213449/ 
 
