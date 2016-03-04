@@ -28,9 +28,9 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    * Is there a third party that can endorse the account recovery or deactivation necessity?
    * Does the client have a secure email address to follow up on it?
 
-2. Providers Automated Reports
+2. Reporting Forms for Providers
  
- Remember, before escalating the issue to any provider, it is essential to make sure that the client has already submitted their issue through the standard link first. 
+ Remember, before escalating the issue to any provider, it is essential to make sure that the client has already submitted their issue through these standard links first. 
 
    * For Facebook Profiles and Pages
    https://www.facebook.com/help/131719720300233/
@@ -48,7 +48,7 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    http://windows.microsoft.com/en-us/windows/outlook/hacked-account
 
    * For Skype
-   https://support2.microsoft.com/skype/hostpage.aspx?language=en&locale=en-us&oaspworkflow=start_1.0.0.0&needslogin=false&wfname=skype&supportoption=email&SupportTopic_L1=32090809&SupportTopic_L2=32090818&ccsid=635570796435365252 
+   https://go.skype.com/help.support.request
 
 3. Escalating Cases
 
@@ -67,7 +67,7 @@ This is crucial to verify before proceeding, no matter how urgent the contact cl
    
    * For Microsoft: Escalate to your direct superior.
    
-   * For Skype, please ensure the client has used the standard procedure here: https://support2.microsoft.com/skype/hostpage.aspx?language=en&locale=en-us&oaspworkflow=start_1.0.0.0&needslogin=false&wfname=skype&supportoption=email&SupportTopic_L1=32090809&SupportTopic_L2=32090818&ccsid=635570796435365252 
+   * For Skype, please ensure the client has used the standard procedure here: https://go.skype.com/help.support.request
 
 4. When the client regains access to their account, advise them on how to improve the account's security level. Enable two-factor authentication where possible, and change the password to a new, stronger and more secure one.
 
