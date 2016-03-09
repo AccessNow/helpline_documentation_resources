@@ -1,6 +1,6 @@
 ## Securing Social Media and Online Accounts
 
-Social media and other online accounts is crucial for many human rights activists to share their ideas, communicate with partners, and broadcast news. Their work and popularity can make them targets for hacking and account compromise. 
+Social media is crucial for many human rights activists to share their ideas, communicate with partners, and broadcast news. Their work and popularity can make them targets for hacking and account compromise. 
 
 Two-step verification and better awareness of account security settings can help to protect these vulnerable accounts. If available, it is also important to keep track of all devices that have logged in to an account. 
 
