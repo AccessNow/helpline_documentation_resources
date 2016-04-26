@@ -14,7 +14,7 @@ Two-Step Verification for Google Apps Organization FAQ
    * [How often will I have to use my second step for authentication?](#howOften)
    * [What happens if I lose the device with the One Time Password app or my security key?](#lost)
    * [What if I have no data or phone connectivity?](#travelling)
-   * [What if I am travelling?](#what-if-i-am-travelling?)
+   * [What if I am travelling?](#travelling?)
    * [What else does Google do with the phone number?](#whatElse)
    * [How do I remove trusted devices?](#removeTrust)
    * [Out of curiosity, what are the other options?](#options)
