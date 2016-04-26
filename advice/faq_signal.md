@@ -93,8 +93,7 @@ In group chat, it is a little easier to accidentally send a message unencrypted 
 will be notified when you’ve added a member who does not have the app.   
 
 
-<a name="accidentCall"></a>Is it possible to accidentally make an unencrypted call?
-How do I know my call is secure?
+<a name="accidentCall"></a>Is it possible to accidentally make an unencrypted call? Or How do I know my call is secure?
 --------------------------------------------------------
 Calls are automatically encrypted, and you are able to double check the safety of this encryption using the generated words at the bottom of your call screen.
 
@@ -127,8 +126,7 @@ Also consider data cost when connecting with Signal. International travellers sh
 Open Whisper Systems provide the following reference for data use:  "Voice calls use about 8 kilobits per second. So for 15 minutes expect 900KB (kilobyte). This brings your 30, 45, and 1 hour conversations to 1.8MB, 2.7MB, and 3.6MB, respectively."
 
 
-<a name="noSignal"></a>Can I send an insecure message if I have to?
-Can I send messages to people who don’t have Signal?
+<a name="noSignal"></a>Can I send an insecure message if I have to? Or can I send messages to people who don’t have Signal?
 -------------------------------------------------------------------
 iOS: 
 Signal will only allow you to send texts to other people who have Signal. iOS users can use the default texting app Messages to send insecure messages or SMS to users who don’t have Signal.
