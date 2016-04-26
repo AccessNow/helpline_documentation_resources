@@ -1,6 +1,10 @@
 Two-Step Verification for Google Apps Organization FAQ 
 ======================================================
 
+|Last Updated:|
+|-------------|
+| April 2016 |
+
 | Abstract: |
 |-----------| 
 | This FAQ is to answer some common questions about two-step verification for organizations planning to implement it for their team's use of Google Apps. |
