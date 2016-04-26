@@ -109,10 +109,9 @@ Use a [backup code](https://support.google.com/accounts/answer/1187538?hl=en) to
 Then, change your device or security key options in the [settings](http://accounts.google.com/SmsAuthConfig).
 
 
-<a name="travelling"></a>What if I have no data or phone connectivity?
-----------------------------------------------
-What if I am travelling?
-------------------------
+<a name="travelling"></a>What if I have no data or phone connectivity? Or what if I am travelling?
+------------------------------------------------------------------------------------
+
 
 One Time Password (OTP) apps, including Google Authenticator, do not require data or a phone connection to use, so just ensure you pack your device with the OTP app on it, even without a data plan. 
 
@@ -158,5 +157,5 @@ Find your favorites [here](https://twofactorauth.org/) or click the links for th
 <a name="moreInformation"></a>Where can I find more information?
 -----------------------------------
 
-Google has a [how to and question list](https://support.google.com/accounts/topic/28786?hl=en&ref_topic=3382253) for 2-Step, and the [EFF’s guide](https://ssd.eff.org/en/module/how-enable-two-factor-authentication) is a great overview. Ask the Helpline if you have any other questions!
+Google has a [how to and question list](https://support.google.com/accounts/topic/28786?hl=en&ref_topic=3382253) for 2-Step, and the [EFF’s guide](https://ssd.eff.org/en/module/how-enable-two-factor-authentication) is a great overview. 
 
