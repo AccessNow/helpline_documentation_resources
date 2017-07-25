@@ -1,6 +1,8 @@
 #!/bin/bash
+# script to prepare HTML files for import into InDesign
+# see http://networkcultures.org/digitalpublishing/2014/05/15/import-html-into-indesign-via-xml/
 
-#remove new lines in the whole document
+# remove new lines in the whole document
 sed -i.ORIG -e ':a' -e 'N' -e '$!ba' -e 's/\n//g' $1
 
 # add a new line after these tags
