@@ -152,4 +152,5 @@ If you are looking for something, and Signal is not meeting your needs, please l
 <a name="question"></a>My question isn’t here.
 ---------------------------------------
 Try Signal’s fabulous [FAQ](http://support.whispersystems.org/hc/en-us).
+
 If you still can’t find an answer, ask the Helpline!
