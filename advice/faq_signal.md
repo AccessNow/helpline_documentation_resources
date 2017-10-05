@@ -33,8 +33,6 @@ Signal FAQ for Organizations Using Signal
 -------------------------------------
 Signal is an encrypted texting and voice chat app that runs on iOs and Android devices, as well as on connected desktop apps based on Chrome/Chromium. Developed by the free and open source software team [Open Whisper Systems], the app allows you to message individuals or groups, make voice and video calls over the internet, and send pictures, videos or audio. 
 
-You may be familiar with TextSecure and Redphone, which were secure texting and voice communications apps for Android. Signal replaces these apps and combines their functionality!
- 
 
 <a name="trust"></a>Why should I trust it?
 ------------------------------------------
@@ -46,6 +44,8 @@ It is simple to install, simple to use, and provides end-to-end encryption.
 <a name="where"></a>Where do I get it?
 --------------------------------------
 Download Signal from the Google Play Store or Apple App Store just as you would any other app. Please note, Signal is only available for Android and iOS.
+
+If you don’t want to use the Play Store, on Android you can install it with the .apk file that has been recently released.
 
 
 <a name="how"></a>How do I use it?
@@ -63,12 +63,14 @@ https://ssd.eff.org/en/module/how-use-signal-ios
 
 <a name="allMsg"></a>Are all messages encrypted?
 ------------------------------------------------
-All messages to other Signal users [are encrypted](http://support.whispersystems.org/hc/en-us/articles/213096658-How-do-I-know-my-message-is-private-) unless you manually change to an insecure message. Messages to non-Signal users are not encrypted, and you will be notified when you attempt to send a message to a non-Signal user. 
+All messages to other Signal users [are encrypted](http://support.whispersystems.org/hc/en-us/articles/213096658-How-do-I-know-my-message-is-private-) unless you manually change to an insecure message.
+
+Messages to non-Signal users are sent as normal non-encrypted SMS, but you will be notified when you attempt to send a message to a non-Signal user.
 
 
 <a name="allCalls"></a>Are phone calls encrypted?
 -------------------------------------------------
-Voice chat is always encrypted. This feature can only be used with another person who has Signal installed. Note that your call quality is dependent on your internet connection, so it is recommended to make calls within wifi zones. 
+Voice chat is always encrypted. This feature, which is limited to one-on-one communications, can only be used with another person who has Signal installed. Note that your call quality is dependent on your internet connection, so it is recommended to make calls within wifi zones. 
 
 
 <a name="groupMsg"></a>Is group messaging encrypted?
@@ -93,17 +95,9 @@ In group chat, it is a little easier to accidentally send a message unencrypted 
 will be notified when you’ve added a member who does not have the app.   
 
 
-<a name="accidentCall"></a>Is it possible to accidentally make an unencrypted call? Or How do I know my call is secure?
+<a name="accidentCall"></a>Is it possible to accidentally make an unencrypted call?
 --------------------------------------------------------
-Calls are automatically encrypted, and you are able to double check the safety of this encryption using the generated words at the bottom of your call screen.
-
-The two, highly different, words at the bottom of your call screen will be shown on both your phone and the receiver’s phone. They allow you to see if your call has been intercepted. If the call is compromised, you and your receiver will see different sets of words. 
-
-In practice, this looks something like the following:
-
-* Alice calls Bob. Alice notices the words *Aardvark Combatant* at the bottom of her call screen. She says to Bob, “The first word is *Aardvark*.” Bob replies, “The second word is *Combatant*” at which point Alice and Bob know their call is secure because they both see the same words. 
-
-* If, on the other hand, Alice said “The first word is *Aardvark*.” and Bob replies “I don’t see *Aardvark* at all, my words are *Tissue Rainbow*.” Alice and Bob know their call is not secure, and they should hang up. 
+Calls are automatically encrypted with Signal, but the person you are calling also needs to have Signal.
 
 
 <a name="msgReceived"></a>How do I know if my message was received?
@@ -128,10 +122,12 @@ Open Whisper Systems provide the following reference for data use:  "Voice calls
 
 <a name="noSignal"></a>Can I send an insecure message if I have to? Or can I send messages to people who don’t have Signal?
 -------------------------------------------------------------------
-iOS: 
+iOS:
+
 Signal will only allow you to send texts to other people who have Signal. iOS users can use the default texting app Messages to send insecure messages or SMS to users who don’t have Signal.
 
 Android:
+
 Yes, but before you do, consider encouraging the receiver’s use of Signal as well - every new user means security becomes habit and the practice becomes normalized.
 
 If you write a message to someone without Signal, you will be notified that your message is insecure, but you will not be prevented from sending a message.
@@ -141,12 +137,14 @@ If you write a message to someone without Signal, you will be notified that your
 
 <a name="signalDesktop"></a>Can I use my laptop/desktop to continue a conversation with Signal?
 --------------------------------------------------------------------
-[The beta](https://whispersystems.org/blog/signal-desktop/) for this feature opened Dec. 2, so go ahead and sign up if you feel adventurous! Otherwise, stay tuned for updates from the Tech Team about when it will be ready for primetime.
+You can install the [Signal Desktop Chrome/Chromium app](https://signal.org/blog/signal-desktop/) and connect it to your Signal app.
 
 
 <a name="coolFeatures"></a>Are there any cool things besides security features?
 -------------------------------------------------------------------
 Yes! Signal has emojis, allows you to send videos and pictures, change the theme to black with white letters (if you have an amoled screen, it saves on battery!), and allows you to change the color of your contacts’ messages.
+
+You can also choose a username and set your profile image.
 
 If you are looking for something, and Signal is not meeting your needs, please let the Helpline know.
 
@@ -154,5 +152,4 @@ If you are looking for something, and Signal is not meeting your needs, please l
 <a name="question"></a>My question isn’t here.
 ---------------------------------------
 Try Signal’s fabulous [FAQ](http://support.whispersystems.org/hc/en-us).
-
-
+If you still can’t find an answer, ask the Helpline!
