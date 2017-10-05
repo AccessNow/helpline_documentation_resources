@@ -31,7 +31,7 @@ Signal FAQ for Organizations Using Signal
 
 <a name="whatIs"></a>What is Signal?
 -------------------------------------
-Signal is an encrypted texting and voice chat app for iPhone and Android devices by the free and open source software team, [Open Whisper Systems](https://whispersystems.org/). The app allows you to message individuals or groups, make calls over the internet, and send pictures, videos or audio. 
+Signal is an encrypted texting and voice chat app that runs on iOs and Android devices, as well as on connected desktop apps based on Chrome/Chromium. Developed by the free and open source software team [Open Whisper Systems], the app allows you to message individuals or groups, make voice and video calls over the internet, and send pictures, videos or audio. 
 
 You may be familiar with TextSecure and Redphone, which were secure texting and voice communications apps for Android. Signal replaces these apps and combines their functionality!
  
