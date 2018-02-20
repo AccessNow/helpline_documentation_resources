@@ -1,0 +1,53 @@
+# Access Now Digital Security Helpline assessment reports 
+
+Repository for confidential digital security assessment reports
+
+## Security Assessments and Consultation Report Template
+
+The [Security Assessments and Consultation Report Template](Report_template.md) consists of the following sections, which should be filled based on the instructions contained in this document.
+<a name="background"></a>
+### Background
+
+This section provides a brief overview of the organization we are assisting. Please try to include the following information and add any relevant points as needed:
+
+- Note the mission of the organization (1-3 sentences) 
+- How many individuals work in the organization?
+- Where is the organization based? 
+- Is the team primarily in office or remote, and what devices are they accustomed to using?
+- With whom does the organization communicate? (note the countries and type of communication -- financial support, technical support, advocacy etc.)
+
+### Identified Challenges
+
+After an initial assessment by the Helpline during a call or emailed exchanges, note the digital security challenges and opportunities, based on the questionnaire in [this article](https://git.accessnow.org/access-now-helpline/faq/blob/master/Organization_security/Lightweight_Security_Assessment.md).
+
+Try to list the challenges in a positive way, for example as an action that need to be done rather than as something that is lacking (e.g. “Explore ways of securing internal communications”, not “Internal communications are not secure”).
+
+What follows is a list of the main issues we should explore, but please include additional questions as appropriate:
+
+- Are additional staff required?
+- Digital security awareness training for staff
+- Communication security needs (email, instant messaging...)
+- Account security needs (sharing credentials, 2FA etc.)
+- Safe traveling requirements (frequent travelers? Where to? What devices are brought with them?
+- What assets are they trying to protect? (Data collected, emails, research, finances...)
+- What vulnerabilities do they have?
+- What risks do they face? Who may be trying to harm them?
+
+### Remediation Plan
+
+- How will we, the organization, and potentially other partners coordinate to address the challenges found in the last section? Create a bulleted list addressing each concern individually.
+- Plan to address the most pressing needs first. Be sure to list who will lead that effort, and how (if at all) our Helpline team will be involved. If there will be external partners involved, please note what their tasks and expectations are.
+- Consider the following categories: Security Awareness, Secure Cloud Storage, Email Account Security, Social Media Account Security, Device Access and Encryption, Safe Travel Advice, DDoS Protection, [Advice] Physical Security
+
+
+## What to do when the report is ready
+
+After providing the consultation report to the client, solicit their feedback on the remediation steps proposed and the prioritization of those steps. 
+If the client agrees on them, then create the child cases and update the plan with those ticket numbers.
+
+## Considerations
+
+It may be the case that a more informal report is more appropriate with the client, for instance embedded within an email thread. That is fine! This template is an example, what is most important is that the main processes are followed: collecting and analyzing information, providing our recommendations for their review and feedback, and connecting remediation steps to new child tickets.
+
+Do not put information shared to us via encrypted email into a Google Doc draft of the consultation report! Reports should only be shared through this dedicated git repository.
+
