@@ -5,7 +5,7 @@ Repository for confidential digital security assessment reports
 ## Security Assessments and Consultation Report Template
 
 The [Security Assessments and Consultation Report Template](Report_template.md) consists of the following sections, which should be filled based on the instructions contained in this document.
-<a name="background"></a>
+
 ### Background
 
 This section provides a brief overview of the organization we are assisting. Please try to include the following information and add any relevant points as needed:
@@ -49,5 +49,5 @@ If the client agrees on them, then create the child cases and update the plan wi
 
 It may be the case that a more informal report is more appropriate with the client, for instance embedded within an email thread. That is fine! This template is an example, what is most important is that the main processes are followed: collecting and analyzing information, providing our recommendations for their review and feedback, and connecting remediation steps to new child tickets.
 
-Do not put information shared to us via encrypted email into a Google Doc draft of the consultation report! Reports should only be shared through this dedicated git repository.
+Do not put information shared to us via encrypted email into a Google Doc draft of the consultation report! Reports should only be shared through this self-hosted private gitlab repository.
 
